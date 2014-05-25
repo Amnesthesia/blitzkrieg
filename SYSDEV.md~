@@ -65,7 +65,7 @@ Kompendium:
 	* Use case model **Page 124-126 - Use case modeling**
 	* Sequence diagrams **Page 126-129 - Sequence diagrams**
 	* Class diagrams **Page 129-131 - Class diagrams**
-
+	* Deployment diagrams **Page 214-215 - Host-target Development**
 
 ## Methodologies
 
