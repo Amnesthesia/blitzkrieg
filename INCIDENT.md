@@ -1,6 +1,6 @@
 # INCIDENTRESPONSE
 
-## TL;DR
+## TL;DR: Principles of Incident Response & Disaster Recovery, Whitman & Mattord
 
 * 23-29
 * 47-49
