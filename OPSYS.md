@@ -2,14 +2,14 @@
 
 ## Trivia
 
-* What's the first operating system considered a predecessor to UNIX and when was unix launched? Who wrote UNIX?
+* What's the first operating system considered a predecessor to UNIX and when was unix launched? Who wrote UNIX? **Page 14-18**
 
 ## Questions
 
 ### CPU & I/O
-* Pros and cons of precise/imprecise interrupts?
+* Pros and cons of precise/imprecise interrupts? 
 * Explain the relation between system calls, commands and instructions
-* Explain what happens in a hardware-driven interrupt?
+* Explain what happens in a hardware-driven interrupt? 
 * Why does a system call take much longer in a virtual machine than in a non-virtual environment?
 * Explain the software layers in a typical I/O system and comment on what purpose each layer has
 * Explain how the system architectures protection rings are used in hardware virtualization
@@ -94,35 +94,36 @@
 ### Topics
 
 * CPU & I/O
-	- Software layers
-	- System calls (normal + virtualization; difference)
-	- Scheduling algorithms
-	- Hardware / Clock interrupts
-	- Imprecise / precise interrupts
-	- Oscillator
+	- Software layers **Page 348-360 - I/O Software Layers**
+	- System calls (normal & virtualization; difference)
+	- Scheduling algorithms **Page 145 - Scheduling**
+	- Hardware / Clock interrupts **Page 835**
+	- Imprecise / precise interrupts **Page 339-343 - Interrupts revisited**
+	- Oscillator **Page 388-394 - Clocks**
 * Threads & Processes
-	- Race conditions & Deadlock
-		- Semaphores & Mutex
-		- Banker's algorithm
-		- Critical sector
+	- Race conditions & Deadlock **Page 117-119 - Race conditions**
+		- Semaphores & Mutex **Page 120-125 - Mutual exclusion**
+		- Banker's algorithm **Page 450-457 - Deadlock avoidance**
+		- Critical regions **Page 119-120 - Critical regions**
 * Filesystem & Memory
-  - Hard/soft links
-  - NTFS, FAT, EXT
-		- MFT
+  - Hard/soft links **Page 272 - Directory operations**
+  - NTFS + MFT **Page 906 - 918 - The Windows NT File System** 
+	- FAT32 **Page 257-265 - Files**
+	- EXT **Page 795-796 - The Linux Ext3 File System**
 	- RAID
-	- Internal/External Fragmentation
-  - TLB
-	- Page tables
-		- Shadow page tables
+	- Internal/External Fragmentation **Page (216) 219 - Page Size**
+  - TLB **Page 194 - Speeding Up Paging**
+	- Page tables **Page 193 - Page Tables**
+		- Shadow page tables **Page 576-577 - Memory Virtualization**
 		- Calculate amount of pages
-		- Calculate bitmap size
-		- Page frames
-		- Page replacement
-			- Optimal
-			- NRU
-			- FIFO
-			-	Second Chance
-			- LRU
+		- Calculate bitmap size **Page 184-192 Managing Free Memory**
+		- Page frames 
+		- Page replacement **Page 201-208 - Page Replacement Algorithms**
+			- Optimal **Page 202 - The Optimal Page Replacement Algorithm**
+			- NRU **Page 203 - The Not Recently Used Page Replacement Algorithm**
+			- FIFO **Page 204 - The First-In, First-Out (FIFO) Page Replacement Algorithm**
+			-	Second Chance **Page 204 - The Second-Chance Page Replacement Algorithm**
+			- LRU **Page 206 - The Least Recently Used (LRU) Page Replacement Algorithm**
 * Scripting & Programming logic
 	- GNU/Linux commands:
 		- ls
@@ -141,10 +142,10 @@
 			- rbp
 			- rax
 * Security mechanisms:
-	- Reference monitor
-  - Bell-La Padula
-  - Biba
-  - UAC, User Account Control
-	- Covert Channel
-	- Protection rings
+	- Reference monitor **Page 630-634 - Trusted Computing Base**
+  - Bell-La Padula **Page 634-636 - The Bell-La Padula Model**
+  - Biba **Page 636 - The Biba Model**
+  - UAC, User Account Control **Page 922-925 - Implementation of Security (Windows Vista)**
+	- Covert Channel **Page 637-641 - Cover channels**
+	- Protection rings **Page 242-247 - Segmentation with Paging: The Intel Pentium**
 
