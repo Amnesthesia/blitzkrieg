@@ -2,8 +2,6 @@
 
 ## TL;DR
 
-## Bare minimum page span to read:
-
 * 14-18
 * 117-125
 * 145
@@ -83,7 +81,7 @@
 
 ## Trivia
 
-* What's the first operating system considered a predecessor to UNIX and when was unix launched? Who wrote UNIX? **Page 14-18**
+* What's the first operating system considered a predecessor to UNIX and when was unix launched? Who wrote UNIX?
 
 ## Questions
 
