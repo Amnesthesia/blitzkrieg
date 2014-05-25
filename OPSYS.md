@@ -111,7 +111,6 @@
 		- MFT
 	- RAID
 	- Internal/External Fragmentation
-	- Cache
   - TLB
 	- Page tables
 		- Shadow page tables
