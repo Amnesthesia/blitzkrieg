@@ -21,7 +21,7 @@ Kompendium:
 * 25-33
 * 79-89
 
-**TOTAL:** 148 + slides
+**TOTAL:** 148 + [slides](Slides/SysDev)
 
 
 **GLOSSARY: Page 732-748; READ THIS FOR IMPORTANT TERMS AND SHIT**

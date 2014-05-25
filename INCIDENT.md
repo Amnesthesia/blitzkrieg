@@ -16,7 +16,7 @@
 * 316-322
 * 406-415
 
-**TOTAL:** 106 pages + slides, summaries & http://www.tripwire.com/state-of-security/security-data-protection/strengthening-the-intrusion-kill-chain/
+**TOTAL:** 106 pages + [slides](Slides/SecurityPlanning), summaries & http://www.tripwire.com/state-of-security/security-data-protection/strengthening-the-intrusion-kill-chain/
 
 **GLOSSARY: Page 521**
 

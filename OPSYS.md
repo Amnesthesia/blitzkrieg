@@ -19,7 +19,7 @@
 * 835
 * 922-925
 
-**TOTAL:** 80 + Obliger & slides
+**TOTAL:** 80 + Obliger & [kompendium](Slides/OpSys)
 
 ### Topics & Page span
 
