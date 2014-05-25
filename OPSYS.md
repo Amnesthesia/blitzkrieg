@@ -1,5 +1,65 @@
 # OPERATIVSYSTEMER:
 
+## TL;DR
+
+### Topics & Page span
+
+* CPU & I/O
+	- Software layers **Page 348-360 - I/O Software Layers**
+	- System calls (normal & virtualization; difference)
+	- Scheduling algorithms **Page 145 - Scheduling**
+	- Hardware / Clock interrupts **Page 835**
+	- Imprecise / precise interrupts **Page 339-343 - Interrupts revisited**
+	- Oscillator **Page 388-394 - Clocks**
+* Threads & Processes
+	- Race conditions & Deadlock **Page 117-119 - Race conditions**
+		- Semaphores & Mutex **Page 120-125 - Mutual exclusion**
+		- Banker's algorithm **Page 450-457 - Deadlock avoidance**
+		- Critical regions **Page 119-120 - Critical regions**
+* Filesystem & Memory
+  - Hard/soft links **Page 272 - Directory operations**
+  - NTFS + MFT **Page 906 - 918 - The Windows NT File System** 
+	- FAT32 **Page 257-265 - Files**
+	- EXT **Page 795-796 - The Linux Ext3 File System**
+	- RAID
+	- Internal/External Fragmentation **Page (216) 219 - Page Size**
+  - TLB **Page 194 - Speeding Up Paging**
+	- Page tables **Page 193 - Page Tables**
+		- Shadow page tables **Page 576-577 - Memory Virtualization**
+		- Calculate amount of pages
+		- Calculate bitmap size **Page 184-192 Managing Free Memory**
+		- Page frames 
+		- Page replacement **Page 201-208 - Page Replacement Algorithms**
+			- Optimal **Page 202 - The Optimal Page Replacement Algorithm**
+			- NRU **Page 203 - The Not Recently Used Page Replacement Algorithm**
+			- FIFO **Page 204 - The First-In, First-Out (FIFO) Page Replacement Algorithm**
+			-	Second Chance **Page 204 - The Second-Chance Page Replacement Algorithm**
+			- LRU **Page 206 - The Least Recently Used (LRU) Page Replacement Algorithm**
+* Scripting & Programming logic
+	- GNU/Linux commands:
+		- ls
+		- wc
+		- grep/egrep
+		- find
+		- awk
+		- exec
+		- ps
+	- PowerShell equivalents of above
+	- Assembly
+			- movl
+			- leal
+			- eax
+			- edx
+			- rbp
+			- rax
+* Security mechanisms:
+	- Reference monitor **Page 630-634 - Trusted Computing Base**
+  - Bell-La Padula **Page 634-636 - The Bell-La Padula Model**
+  - Biba **Page 636 - The Biba Model**
+  - UAC, User Account Control **Page 922-925 - Implementation of Security (Windows Vista)**
+	- Covert Channel **Page 637-641 - Cover channels**
+	- Protection rings **Page 242-247 - Segmentation with Paging: The Intel Pentium**
+
 ## Trivia
 
 * What's the first operating system considered a predecessor to UNIX and when was unix launched? Who wrote UNIX? **Page 14-18**
@@ -88,64 +148,4 @@
 	- FIFO
 	-	Second Chance
 	- LRU
-
-## Summary
-
-### Topics
-
-* CPU & I/O
-	- Software layers **Page 348-360 - I/O Software Layers**
-	- System calls (normal & virtualization; difference)
-	- Scheduling algorithms **Page 145 - Scheduling**
-	- Hardware / Clock interrupts **Page 835**
-	- Imprecise / precise interrupts **Page 339-343 - Interrupts revisited**
-	- Oscillator **Page 388-394 - Clocks**
-* Threads & Processes
-	- Race conditions & Deadlock **Page 117-119 - Race conditions**
-		- Semaphores & Mutex **Page 120-125 - Mutual exclusion**
-		- Banker's algorithm **Page 450-457 - Deadlock avoidance**
-		- Critical regions **Page 119-120 - Critical regions**
-* Filesystem & Memory
-  - Hard/soft links **Page 272 - Directory operations**
-  - NTFS + MFT **Page 906 - 918 - The Windows NT File System** 
-	- FAT32 **Page 257-265 - Files**
-	- EXT **Page 795-796 - The Linux Ext3 File System**
-	- RAID
-	- Internal/External Fragmentation **Page (216) 219 - Page Size**
-  - TLB **Page 194 - Speeding Up Paging**
-	- Page tables **Page 193 - Page Tables**
-		- Shadow page tables **Page 576-577 - Memory Virtualization**
-		- Calculate amount of pages
-		- Calculate bitmap size **Page 184-192 Managing Free Memory**
-		- Page frames 
-		- Page replacement **Page 201-208 - Page Replacement Algorithms**
-			- Optimal **Page 202 - The Optimal Page Replacement Algorithm**
-			- NRU **Page 203 - The Not Recently Used Page Replacement Algorithm**
-			- FIFO **Page 204 - The First-In, First-Out (FIFO) Page Replacement Algorithm**
-			-	Second Chance **Page 204 - The Second-Chance Page Replacement Algorithm**
-			- LRU **Page 206 - The Least Recently Used (LRU) Page Replacement Algorithm**
-* Scripting & Programming logic
-	- GNU/Linux commands:
-		- ls
-		- wc
-		- grep/egrep
-		- find
-		- awk
-		- exec
-		- ps
-	- PowerShell equivalents of above
-	- Assembly
-			- movl
-			- leal
-			- eax
-			- edx
-			- rbp
-			- rax
-* Security mechanisms:
-	- Reference monitor **Page 630-634 - Trusted Computing Base**
-  - Bell-La Padula **Page 634-636 - The Bell-La Padula Model**
-  - Biba **Page 636 - The Biba Model**
-  - UAC, User Account Control **Page 922-925 - Implementation of Security (Windows Vista)**
-	- Covert Channel **Page 637-641 - Cover channels**
-	- Protection rings **Page 242-247 - Segmentation with Paging: The Intel Pentium**
 
