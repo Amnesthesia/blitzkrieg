@@ -21,8 +21,7 @@
 * 835
 * 922-925
 
-**TOTAL:** 80
-+ Obliger & slides
+**TOTAL:** 80 + Obliger & slides
 
 ### Topics & Page span
 
