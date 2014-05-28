@@ -108,3 +108,35 @@
 			* Honeynets
 			* Honeytokens
 			* Trap & Trace system
+
+## Summary
+
+The US military defines the process of a kill chain as F2T2EA, where F2 is Find, Fix, T2 is Track, Target and EA is Engage, Assess. In short, Find, Fix, Track, Target, Engage, Assess is shortened into F2T2EA. Find targets suitable for the op; fix their location; track + observe; target with a suitable weapon to result in the desired effect, then engage it and assess the effects. 
+
+It's referred to as a chain, because if any of these step fails, the process is interrupted, and all links must hold for the chain to be completed. Furthermore, a specific kill chain model for intrusions is outlined as 
+
+* Reconnaissance
+* Weaponization
+* Delivery
+* Exploitation
+* Installation
+* Command & Control (C2)
+* Actions
+
+Where the Reconnaissance phase consists of what Find and Fix was in the US military kill chain, followed by preparing a payload (Weaponization) and then delivering it through e.g email, websites or USBs (Delivery). After delivery comes exploitation -- triggering the code -- and this phase *could* be triggered automatically. Once this has been established, the host would be expected to call home -- this is the Command and Control (C2) phase. The malicious code makes the host establish a channel for communication with it, and with APT malware, subsequent commands are typically not automated.
+
+The final phase is performing the actions, and is called Actions on Objectives (or imo, just Actions -- Objectives is implied). 
+
+| Phase 			 | Detect | Deny | Disrupt | Degrade | Deceive | Destroy |
+|--------------|--------|------|---------|---------|---------|---------|
+|Reconnaissance| Web analytics|Firewall ACL| | | | |
+|Weaponization | NIDS | | | | | |
+|Delivery			 | Vigilant user | Proxy filter | In-line AV | Queuing | | | |
+|Exploitation  | HIDS | Patch | DEP | | | |
+|Installation  | HIDS | Chroot jail | AV | | | |
+|Command&Control|NIDS | Firewall ACL | NIPS | Tarpit | DNS Redirect | |
+|Actions       | Audit log | | | | | |
+
+
+The Installation phase (or imo, Persistance) allows access to persist by installing the trojan or backdoor into the system; and to 
+
