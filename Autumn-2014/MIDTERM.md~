@@ -11,7 +11,7 @@
 
 **TOTAL** 140 (+= 300) pages (+ exercises)
 
-**Deadline: 16 Oct**
+**Deadline: 16 Oct** (Midterm Exam)
 
 ## Ethical Hacking
 ----------------------
@@ -20,7 +20,7 @@
 
 **TOTAL** 300 pages OR 12 hours audiobook
 
-**Deadline: 9 Oct**
+**Deadline: 9 Oct** (Review deadline 10th October)
 
 ## Software Security
 ----------------------
@@ -31,5 +31,5 @@
 
 **TOTAL** 540 pages
 
-**Deadline: 20 Oct**
+**Deadline: 20 Oct** *(to be on schedule, not to reach exam)
 

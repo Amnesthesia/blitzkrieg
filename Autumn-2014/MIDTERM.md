@@ -25,9 +25,9 @@
 ## Software Security
 ----------------------
 * Protection Information (27pg)
-* The Art of Software Security Assessment [Dowd] (2-5,8-12,17) (~120pg, ~200pg, ~60pg)
-* Exploiting Software [Hoglund] (1-2,7, Attack Patterns) (60pg, 100pg)
-* Building Security [McGnaw] (4-5pg)
+* The Art of Software Security Assessment, Dowd (2-5,8-12,17) (~120pg, ~200pg, ~60pg)
+* Exploiting Software, Hoglund (1-2,7, Attack Patterns) (60pg, 100pg)
+* Building Security, McGnaw (4-5pg)
 
 **TOTAL** 540 pages
 
