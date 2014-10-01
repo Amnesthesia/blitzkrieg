@@ -38,5 +38,5 @@
 
 **TOTAL** 540 pages
 
-**Deadline: 20 Oct** *(to be on schedule, not to reach exam)
+**Deadline: 20 Oct** *(to be on schedule, not to reach exam)*
 
