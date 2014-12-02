@@ -1,26 +1,17 @@
 ## SysAdmin:
 ----------------------
-* Sysadm-1 (64pg)
-* Sysadm-2 (17pg)
-* Sysadm-3 (15pg)
-* Sysadm-4 (11pg)
-* Sysadm-5 (33pg)
+### Read
 * Traugott&Huddleston (15pg)
 * Puppet Quest Guide (85pg)
 * Wikipedia book (<=300pg)
+* Sysadm 7-9
 
-**TOTAL** 140 (+= 300) pages (+ exercises)
+### Do
+* Project (set up server using puppet & Docker)
+* Lab 1-9
 
-**Deadline: 16 Oct** (Midterm Exam)
+**Deadline: 10 Dec** (Midterm Exam)
 
-## Ethical Hacking
-----------------------
-* Rogue Code (300pg) 
-* *(Art of Ethical Hacking & Pen. Testing)*
-
-**TOTAL** 300 pages OR 12 hours audiobook
-
-**Deadline: 9 Oct** (Review deadline 10th October)
 
 ## Software Security
 ----------------------
@@ -38,5 +29,20 @@
 
 **TOTAL** 540 pages
 
-**Deadline: 20 Oct** *(to be on schedule, not to reach exam)*
+**Deadline: 4 Dec** 
 
+## Digital Forensics
+----------------------
+
+### Read
+* Dan Farmer and Wietse Venema: Forensic Discovery, Addison-Wesley, 2005 (available here: http://www.porcupine.org/forensics/forensic-discovery/)
+* Papers
+
+### Do
+* Lab #1
+* Write up presentation on paper
+* Project: Anti-Forensics (Deadline:
+
+**TOTAL** 
+
+**Deadline: 12 Dec**
