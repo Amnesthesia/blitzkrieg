@@ -2,17 +2,17 @@
 
 | Date | Accomplish |
 |:----:|------------|
-|**2/12** | SysAdm Labs|
-|**3/12** | SysAdm Wikipedia Book|
-|**4/12** | Protection Information + Chapt. 2-5|
+|**2/12** | SysAdm Labs (~200p, easy read)|
+|**3/12** | SysAdm Wikipedia Book (~300g - skim through)|
+|**4/12** | Protection Information (27p) + Chapt. 2-5 (120p) |
 |**5/12** | Digital Forensics Project|
-|**6/12** | Chapt. 8-12 |
-|**7/12** | Chapt. 17 + Exploiting Software 1-2|
-|**8/12** | Chapt. 7 + Attack Patterns|
-|**9/12** | Building Security 4-5|
-|**10/12**| Basics of DigFor 100p|
-|**11/12**| Basics of DigFor 100p|
-|**12/12**| PARTY |
+|**6/12** | Chapt. 8-12 (200p) |
+|**7/12** | Chapt. 17 (60p) + Exploiting Software 1-2 (60p)|
+|**8/12** | Chapt. 7 + Attack Patterns (100p) |
+|**9/12** | Building Security 4-5 (alt: Finish Exploiting Software/Art of..)|
+|**10/12**| Basics of DigFor 100p (+ presentations)|
+|**11/12**| Basics of DigFor 100p (+ presentations)|
+|**12/12**| **PARTY** |
 
 
 
