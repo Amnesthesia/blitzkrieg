@@ -2,22 +2,19 @@
 
 | Date | Accomplish |
 |:----:|------------|
-|  2   | SysAdm Labs|
-|  3   | SysAdm Wikipedia Book|
-|  4   | Protection Information + Chapt. 2-5|
-|  5   | Digital Forensics Project|
-|  6   | Chapt. 8-12 |
-|  7   | Chapt. 17 + Exploiting Software 1-2|
-|  8   | Chapt. 7 + Attack Patterns|
-|  9   | Building Security 4-5|
-|  10  | Basics of DigFor 100p|
-|  11  | Basics of DigFor 100p|
-|  12  | PARTY |
+|**2/12** | SysAdm Labs|
+|**3/12** | SysAdm Wikipedia Book|
+|**4/12** | Protection Information + Chapt. 2-5|
+|**5/12** | Digital Forensics Project|
+|**6/12** | Chapt. 8-12 |
+|**7/12** | Chapt. 17 + Exploiting Software 1-2|
+|**8/12** | Chapt. 7 + Attack Patterns|
+|**9/12** | Building Security 4-5|
+|**10/12**| Basics of DigFor 100p|
+|**11/12**| Basics of DigFor 100p|
+|**12/12**| PARTY |
 
 
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|----|----|----|
-| SysAdm labs| SysAdm Wikipedia book | Protection Information + Chapter 2-5|
 
 ## SysAdmin: 2nd - 4th December
 ----------------------
